@@ -1,0 +1,37 @@
+<html>
+<body>
+<table>
+<tr>
+<th>album</th>
+<th>year</th>
+</tr>
+
+<tr>
+<td>rubber soul</td>
+<td>1996</td>
+</tr>
+
+<tr>
+<td>revolver</td>
+<td>1966</td>
+</tr>
+
+<tr>
+<td>sgt.pepper's</td>
+<td>1976</td>
+</tr>
+
+<tr>
+<td>the white album</td>
+<td>1986</td>
+</tr>
+
+<tr>
+<td>abbey road</td>
+<td>1969</td>
+</tr>
+
+</table>
+</body>
+</html>
+
